@@ -9,7 +9,6 @@ function persistence(num) {
          } else {
             num *= arrayNams[i + 1];
          }
-         console.log(num);
          j++;
       }
       result++
